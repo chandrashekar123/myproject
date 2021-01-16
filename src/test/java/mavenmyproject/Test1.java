@@ -9,6 +9,8 @@ public class Test1 {
 	
 	@Test
 	
+	
+	
 	public void add() {
 	System.out.println("sum");
 	Assert.assertEquals(20,20);
